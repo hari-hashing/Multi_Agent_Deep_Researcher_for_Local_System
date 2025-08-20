@@ -5,7 +5,7 @@ description = "Deep Research Agent using Crew AI and LinkUp API"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "crewai>=0.114.0",
+    "crewai>=0.165.1",
     "linkup-sdk>=0.2.4",
     "mcp>=1.6.0",
     "openai>=1.75.0",

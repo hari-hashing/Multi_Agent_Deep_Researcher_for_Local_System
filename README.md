@@ -3,7 +3,7 @@
 # Multi_Agent_Deep_Researcher_for_Local_System
 A Multi Agent Application running on your own local system like ChatGPT deep research feature using multiple agents and MCP setup in Cursor
 
-We use:
+used:
 
 - [LinkUp](https://www.linkup.so/) (Search Tool)
 - CrewAI (Agentic design)
@@ -47,4 +47,5 @@ streamlit run app.py
   }
 }
 ```
+
 [Get your Linkup API keys here](https://www.linkup.so/)

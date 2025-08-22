@@ -39,7 +39,7 @@ with st.sidebar:
 # Main Chat Interface Header with powered by logos from original code links
 col1, col2 = st.columns([6, 1])
 with col1:
-    st.markdown("<h2 style='color: #0066cc;'>🔍 Agentic Deep Researcher</h2>",
+    st.markdown("<h2 style='color: #0066cc;'>Agentic Deep Researcher</h2>",
                 unsafe_allow_html=True)
     powered_by_html = """
     <div style='display: flex; align-items: center; gap: 10px; margin-top: 5px;'>
